@@ -24,6 +24,7 @@
 		BE24548E235EA99600815101 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BE245491235EA99600815101 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BE245493235EA99600815101 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BE245499235EA9FD00815101 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		BE245479235EA99500815101 = {
 			isa = PBXGroup;
 			children = (
+				BE245499235EA9FD00815101 /* README.md */,
 				BE245484235EA99500815101 /* HackingWithSwiftWordScramble */,
 				BE245483235EA99500815101 /* Products */,
 			);
