@@ -14,6 +14,7 @@
 		BE24548F235EA99600815101 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE24548E235EA99600815101 /* Preview Assets.xcassets */; };
 		BE245492235EA99600815101 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE245490235EA99600815101 /* LaunchScreen.storyboard */; };
 		BE67DD2423602CE80096EDAE /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = BE67DD2323602CE80096EDAE /* start.txt */; };
+		BE67DD262360445C0096EDAE /* Screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = BE67DD252360445B0096EDAE /* Screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		BE245493235EA99600815101 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BE245499235EA9FD00815101 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BE67DD2323602CE80096EDAE /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
+		BE67DD252360445B0096EDAE /* Screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				BE245487235EA99500815101 /* SceneDelegate.swift */,
 				BE245489235EA99500815101 /* ContentView.swift */,
 				BE24548B235EA99600815101 /* Assets.xcassets */,
+				BE67DD252360445B0096EDAE /* Screenshot.png */,
 				BE67DD2323602CE80096EDAE /* start.txt */,
 				BE245490235EA99600815101 /* LaunchScreen.storyboard */,
 				BE245493235EA99600815101 /* Info.plist */,
@@ -142,6 +145,7 @@
 				BE67DD2423602CE80096EDAE /* start.txt in Resources */,
 				BE24548F235EA99600815101 /* Preview Assets.xcassets in Resources */,
 				BE24548C235EA99600815101 /* Assets.xcassets in Resources */,
+				BE67DD262360445C0096EDAE /* Screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
