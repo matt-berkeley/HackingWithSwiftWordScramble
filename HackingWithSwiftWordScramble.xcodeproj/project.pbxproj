@@ -13,6 +13,7 @@
 		BE24548C235EA99600815101 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE24548B235EA99600815101 /* Assets.xcassets */; };
 		BE24548F235EA99600815101 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE24548E235EA99600815101 /* Preview Assets.xcassets */; };
 		BE245492235EA99600815101 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE245490235EA99600815101 /* LaunchScreen.storyboard */; };
+		BE67DD2423602CE80096EDAE /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = BE67DD2323602CE80096EDAE /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		BE245491235EA99600815101 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BE245493235EA99600815101 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BE245499235EA9FD00815101 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		BE67DD2323602CE80096EDAE /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				BE245487235EA99500815101 /* SceneDelegate.swift */,
 				BE245489235EA99500815101 /* ContentView.swift */,
 				BE24548B235EA99600815101 /* Assets.xcassets */,
+				BE67DD2323602CE80096EDAE /* start.txt */,
 				BE245490235EA99600815101 /* LaunchScreen.storyboard */,
 				BE245493235EA99600815101 /* Info.plist */,
 				BE24548D235EA99600815101 /* Preview Content */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BE245492235EA99600815101 /* LaunchScreen.storyboard in Resources */,
+				BE67DD2423602CE80096EDAE /* start.txt in Resources */,
 				BE24548F235EA99600815101 /* Preview Assets.xcassets in Resources */,
 				BE24548C235EA99600815101 /* Assets.xcassets in Resources */,
 			);
