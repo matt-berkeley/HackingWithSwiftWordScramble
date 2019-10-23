@@ -136,9 +136,10 @@ struct ContentView: View {
                         .fontWeight(.bold))
                     {
                         List(createdWords, id: \.self) {
+                            Text("\($0)")
+                            Spacer()
                             Image(systemName: "\($0.count).circle")
                                 .foregroundColor($0.count == 8 ? .green: .primary)
-                            Text("\($0)")
                         }
                     }
                 }.alert(isPresented: $showingError) {
